@@ -4,8 +4,14 @@
 
 Hi there! I’m Brian and I’m trying to become a data scientist (I particularly enjoy working with data sets and trying to find patterns). I’m fascinated by how technology can help us improve our lives, and I’m excited to learn more about it. I’m from Argentina, and I love spending time outdoors (especially the mountain). I’m 24 years old, and I’ve been working as a full stack developer for the past few years. I’m currently studying data science, and I’m looking forward to continuing learning and developing my skills in this field. Also I enjoy writing my process 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning** through courses and books.
-
+- 🌱 I’m currently learning **Data Science and Machine Learning** through courses.
+- I'm currently doing these courses 👨‍💻:
+  - [🤖 Complete Machine Learning & Data Science Bootcamp 2022 🤖](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+  - [🕴️ Data Science aplicado a Negocios | 6 Casos de Estudio Reales 🕴️](https://www.udemy.com/course/data-science-for-business-es/)
+- Currently deepening my knowledge in 🧑‍🎓:
+  - Regression Problems 📈
+  - Classification Problems 📊
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/🤖-brian-rey-1221a1141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🤖-brian-rey-1221a1141" height="30" width="40" /></a>
