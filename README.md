@@ -2,7 +2,7 @@
 
 # Hello there 👋
 
-Hi there! I’m Brian and I’m trying to become a data scientist (I particularly enjoy working with data sets and trying to find patterns). I’m fascinated by how technology can help us improve our lives, and I’m excited to learn more about it. I’m from Argentina, and I love spending time outdoors (especially the mountain). I’m 24 years old, and I’ve been working as a full stack developer for the past few years. I’m currently studying data science, and I’m looking forward to continuing learning and developing my skills in this field. Also I enjoy writing my process 
+I’m Brian and I’m trying to become a data scientist (I particularly enjoy working with data sets and trying to find patterns). I’m fascinated by how technology can help us improve our lives, and I’m excited to learn more about it. I’m from Argentina, and I love spending time outdoors (especially the mountain). I’m 24 years old, and I’ve been working as a full stack developer for the past few years. I’m currently studying data science, and I’m looking forward to continuing learning and developing my skills in this field. Also I enjoy writing my process 
 
 - 🌱 I’m currently learning **Data Science and Machine Learning** through courses.
 - I'm currently doing these courses 👨‍💻:
@@ -11,6 +11,7 @@ Hi there! I’m Brian and I’m trying to become a data scientist (I particularl
 - Currently deepening my knowledge in 🧑‍🎓:
   - Regression Problems 📈
   - Classification Problems 📊
+    - [Predicting Employee Turnover using different models 👨‍💼👩‍💼](https://github.com/nsqlabs/Predicting-employee-turnover)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
