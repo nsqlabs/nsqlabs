@@ -48,26 +48,26 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
     </tr>
     <tr>
       <td>
-        <img src="https://camo.githubusercontent.com/8f9fb8e64765cd5c2a1c63027de59bd2273ca8c75d5d191f9e52ace44e0db5bf/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f373150754975582d36344c2e6a7067"/>
+        <img src="https://m.media-amazon.com/images/I/51AVLDnz4kL.jpg"/>
       </td>
-      <td>Homo Deus: A Brief History of Tomorrow</td>
+      <td>The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</td>
       <td>
-        Over the past century humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but, as Harari explains in his trademark style—thorough, yet riveting—famine, plague and war have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges. For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals put together. The average American is a thousand times more likely to die from binging at McDonalds than from being blown up by Al Qaeda.<br><br> What then will replace famine, plague, and war at the top of the human agenda? As the self-made gods of planet earth, what destinies will we set ourselves, and which quests will we undertake? Homo Deus explores the projects, dreams and nightmares that will shape the twenty-first century—from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution. This is Homo Deus.
+        We like to think that we are in control of the future of "artificial" intelligence. The reality, though, is that we -- the everyday people whose data powers AI -- aren't actually in control of anything. When, for example, we speak with Alexa, we contribute that data to a system we can't see and have no input into -- one largely free from regulation or oversight. The big nine corporations -- Amazon, Google, Facebook, Tencent, Baidu, Alibaba, Microsoft, IBM and Apple--are the new gods of AI and are short-changing our futures to reap immediate financial gain.
       </td>
       <td>
-        <a href="https://www.amazon.com/-/es/Yuval-Noah-Harari-ebook/dp/B01BBQ33VE/"> Link to Amazon </a>
+        <a href="https://www.amazon.com/-/es/Amy-Webb-ebook/dp/B07H7G7CMN"> Link to Amazon </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://images-na.ssl-images-amazon.com/images/I/71mAa56sZEL.jpg"/>
+        <img src="https://m.media-amazon.com/images/I/41MPDK4Si0L.jpg"/>
       </td>
-      <td>WTF?: What's the Future and Why It's Up to Us</td>
+      <td>Ai Superpowers: China, Silicon Valley, and the New World Order</td>
       <td>
-        WTF? can be an expression of amazement or an expression of dismay. In today’s economy, we have far too much dismay along with our amazement, and technology bears some of the blame. In this combination of memoir, business strategy guide, and call to action, Tim O'Reilly, Silicon Valley’s leading intellectual and the founder of O’Reilly Media, explores the upside and the potential downsides of today's WTF? technologies. 
+       Most experts already say that AI will have a devastating impact on blue-collar jobs. But Lee predicts that Chinese and American AI will have a strong impact on white-collar jobs as well. Is universal basic income the solution? In Lee’s opinion, probably not. But he provides a clear description of which jobs will be affected and how soon, which jobs can be enhanced with AI, and most importantly, how we can provide solutions to some of the most profound changes in the future of human history.
       </td>
       <td>
-        <a href="https://www.amazon.com/WTF-Whats-Future-Why-Its/dp/0062565710"> Link to Amazon </a>
+        <a href="https://www.amazon.com/-/es/Amy-Webb-ebook/dp/B07H7G7CMN"> Link to Amazon </a>
       </td>
     </tr>
   </table>
