@@ -10,7 +10,8 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
   - [🕴️ Data Science aplicado a Negocios | 6 Casos de Estudio Reales 🕴️](https://www.udemy.com/course/data-science-for-business-es/)
 - Currently deepening my knowledge in 🧑‍🎓:
   - Regression Problems 📈
-    - [Predicting mlb players salary in 1986 using a single predictor](https://github.com/nsqlabs/MLB-Hitters-performance-against-salary-1986)
+    - **Single Linear Regression**:
+      - [Can a single hitting 1986 stat be used for Predicting mlb hitters salary in 1987?](https://github.com/nsqlabs/MLB-Hitters-performance-against-salary-1986)
   - Classification Problems 📊
     - [Predicting Employee Turnover using different models 👨‍💼👩‍💼](https://github.com/nsqlabs/Predicting-employee-turnover)
 - Current challenge 💪:  30 days of data science
