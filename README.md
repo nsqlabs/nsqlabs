@@ -11,9 +11,9 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
 - Currently deepening my knowledge in 🧑‍🎓:
   - Regression Problems 📈
     - **Single Linear Regression**:
-      - [Can a single hitting 1986 stat be used for Predicting mlb hitters salary in 1987? (in progress 💪💪)](https://github.com/nsqlabs/MLB-Hitters-performance-against-salary-1986)
+      - [Can a single hitting 1986 stat be used for Predicting mlb hitters salary in 1987?](https://github.com/nsqlabs/MLB-Hitters-performance-against-salary-1986)
     - **Multiple Linear Regression**:
-      - [Predicting NBA team's winning percentage](https://github.com/nsqlabs/Predicting-Nba-team-winning-percentage)
+      - [Predicting NBA team's winning percentage (in progress 💪💪)](https://github.com/nsqlabs/Predicting-Nba-team-winning-percentage)
   - Classification Problems 📊
     - [Predicting Employee Turnover using neural networks, random forests and logistic regression 👨‍💼👩‍💼](https://github.com/nsqlabs/Predicting-employee-turnover)
 - Current challenge 💪:  30 days of data science
