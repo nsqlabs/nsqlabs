@@ -20,6 +20,7 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
   - [30 days of Data Science — Day 1: Regression problems](https://medium.com/data-and-me/30-days-of-data-science-day-1-regression-problems-ec75563a4989)
   - [30 days of Data Science — Day 2: Simple Linear Regression](https://medium.com/data-and-me/30-days-of-data-science-day-2-simple-linear-regression-5558c20ac0c3)
   - [30 days of Data Science — Day 3: Multiple Linear Regression](https://medium.com/data-and-me/30-days-of-data-science-day-3-multiple-linear-regression-30c75e234e80)
+  - [30 days of Data Science — Day 4: Evaluating regression models](https://medium.com/data-and-me/30-days-of-data-science-day-4-evaluating-regression-models-c2b5b3d2c5a7)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
