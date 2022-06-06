@@ -23,6 +23,7 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
   - [30 days of Data Science — Day 4: Evaluating regression models](https://medium.com/data-and-me/30-days-of-data-science-day-4-evaluating-regression-models-c2b5b3d2c5a7)
   - [30 days of Data Science — Day 5: Data Preparation](https://medium.com/data-and-me/30-days-of-data-science-day-5-data-preparation-a4d481d4c1cd)
   - [30 days of Data Science — Day 6: Mistakes I don’t want to make as a future data scientist](https://medium.com/data-and-me/30-days-of-data-science-day-6-mistakes-i-dont-want-to-make-as-a-future-data-scientist-982b61ad5a1b)
+  - [30 days of Data Science — Day 7: The ethics of dealing with data](https://medium.com/data-and-me/30-days-of-data-science-day-7-the-ethics-of-dealing-with-data-c74f403a5f6e)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
