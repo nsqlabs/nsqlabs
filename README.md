@@ -7,6 +7,7 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
 - 🌱 I’m currently learning **Data Science and Machine Learning** through courses.
 - I'm currently doing these courses 👨‍💻:
   - [🤖 Complete Machine Learning & Data Science Bootcamp 2022 🤖](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+  - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 - Currently deepening my knowledge in 🧑‍🎓:
   - Regression Problems 📈
     - **Single Linear Regression**:
