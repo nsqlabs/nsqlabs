@@ -13,6 +13,8 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
       - [Can a single hitting 1986 stat be used for Predicting mlb hitters salary in 1987?](https://github.com/nsqlabs/MLB-Hitters-performance-against-salary-1986)
     - **Multiple Linear Regression**:
       - [Predicting NBA team's winning percentage (in progress 💪💪)](https://github.com/nsqlabs/Predicting-Nba-team-winning-percentage)
+    - **Multiple approaches**:
+      - [🏠🏠 Predicting California Houses Pricing based on census data 🏠🏠](https://github.com/nsqlabs/California-housing-price-prediction-using-machine-learning)
   - Classification Problems 📊
     - [Predicting Employee Turnover using neural networks, random forests and logistic regression 👨‍💼👩‍💼](https://github.com/nsqlabs/Predicting-employee-turnover)
 - Current challenge 💪:  30 days of data science
@@ -23,6 +25,8 @@ I’m Brian and I’m trying to become a data scientist (I particularly enjoy wo
   - [30 days of Data Science — Day 5: Data Preparation](https://medium.com/data-and-me/30-days-of-data-science-day-5-data-preparation-a4d481d4c1cd)
   - [30 days of Data Science — Day 6: Mistakes I don’t want to make as a future data scientist](https://medium.com/data-and-me/30-days-of-data-science-day-6-mistakes-i-dont-want-to-make-as-a-future-data-scientist-982b61ad5a1b)
   - [30 days of Data Science — Day 7: The ethics of dealing with data](https://medium.com/data-and-me/30-days-of-data-science-day-7-the-ethics-of-dealing-with-data-c74f403a5f6e)
+  - [30 days of Data Science — Day 8: The most taken-for-granted tool in data science](https://medium.com/data-and-me/30-days-of-data-science-day-8-the-most-taken-for-granted-tool-in-data-science-e1e383f2e432)
+  - [30 days of Data Science — Day 9: Classification Problems](https://medium.com/data-and-me/30-days-of-data-science-day-9-classification-problems-50b0e438f114)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
